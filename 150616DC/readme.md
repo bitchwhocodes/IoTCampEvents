@@ -48,7 +48,7 @@ http://BretStateham.com<br/>
 
 ## Slides ##
 
-You can grab them from the [Slide Deck](/Slides) folder in this same repo.
+You can grab them from the [Slide Deck](/150616DC/Slides) folder in this same repo.
 
 ## Connect The Dots Fork ##
 
