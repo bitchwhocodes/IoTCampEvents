@@ -27,10 +27,9 @@ http://thebitchwhocodes.com<br/>
 
 ## Lab Resources
 We are working from a fork from Bret Stateham, a SR Technical Evangelist from San Diego. Thank you Bret.
-Bret Stateham
-Bret.Stateham@microsoft.com
-@BretStateham
-http://BretStateham.com
+Bret Stateham<br/>
+Bret.Stateham@microsoft.<br/>
+http://BretStateham.com<br/>
 
 ---
 
