@@ -1,7 +1,7 @@
 # IoT Camp - Atlanta, GA - 06/18/2015 #
 
 
-
+SITE LINK INCLUDING SLIDES : https://github.com/bitchwhocodes/IoTCampEvents/tree/master/150618ATL
 EVAL LINK: http://aka.ms/ioteventGA
 
 
